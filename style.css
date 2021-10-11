@@ -173,6 +173,7 @@ main{
     margin-bottom: 15px;
     text-align: start;
     margin: auto;
+    max-width: 300px;
 }
 
 .currency-table--container{
@@ -288,6 +289,7 @@ Segunda tabla
     margin-bottom: 15px;
     text-align: start;
     margin: auto;
+    max-width: 300px;
 }
 
 .fees-table--container{
